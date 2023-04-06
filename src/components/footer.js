@@ -1,8 +1,8 @@
 /* This example requires Tailwind CSS v2.0+ */
 const navigation = {
   main: [
-    { name: 'permacast V1', href: 'https://app.permacast.dev' },
-    { name: 'permacast V2 (beta)', href: 'https://permacast-v2.vercel.app/' },
+    { name: 'permacast (legacy)', href: 'https://legacy.permacast.dev' },
+    { name: 'permacast V2 (beta)', href: 'https://permacast.app' },
     { name: 'CLI', href: 'https://github.com/Parallel-news/permacast-cli'},
   ],
   social: [
