@@ -1,4 +1,9 @@
-## Permacast Landing Page
+<p align="center">
+  <a href="https://permacast.app">
+    <img src="https://raw.githubusercontent.com/Parallel-news/permacast-protocol/main/img/pc-icons/logo192.png" height="124">
+  </a>
+  <p align="center">Permacast Landing Page</p>
+</p>
 
 ### Build & Run
 
